@@ -20,19 +20,19 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Pica-Pau e os Vingadores
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Criei uma imagem aonde o pica-pau fazia parte dos vingadores, na foto podemos ver o pica-pau entre eles.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+PhotoRoom.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Utilizei uma imagem do pica-pau e outra imagem de fundo com os Vingadores.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+file:///D:/Downloads/picapau%20e%20os%20vingadores-Photoroom.pdf
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
